@@ -56,13 +56,6 @@
 			<scope>test</scope>
 		</dependency>
 
-		<!-- https://mvnrepository.com/artifact/ch.qos.logback/logback-core -->
-		<dependency>
-			<groupId>ch.qos.logback</groupId>
-			<artifactId>logback-core</artifactId>
-			<version>1.5.15</version>
-		</dependency>
-
 		<!-- https://mvnrepository.com/artifact/org.xmlunit/xmlunit-core -->
 		<dependency>
 			<groupId>org.xmlunit</groupId>
